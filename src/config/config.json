@@ -1,0 +1,27 @@
+{
+    "TOKEN": "MTAyNzU5MTY5NzgyOTQ4MjU4Ng.G_jvFv.eEabchIvqs8Fwy-jtO1cufRKN_z4Kc5u4lqch0",
+    "CLIENTID": "1027591697829482586",
+    "OWNER": [
+        "811213525321383937"
+    ],
+    "NODES": [
+        {
+            "name": "NODE-1",
+            "host": "lavalink.oops.wtf",
+            "port": 443,
+            "password": "www.freelavalink.ga",
+            "secure": true
+        },
+        {
+            "name": "NODE-2",
+            "host": "lava.link",
+            "port": 80,
+            "password": "dsc.gg/asuradev",
+            "secure": false
+        }
+    ],
+    "SPOTIFY": {
+        "clientID": "cb41529dc3bd4d8f8a240dbee0fff4e8",
+        "clientSecret": "bcca82f42930498aa385a8289fdf276b"
+    }
+}
